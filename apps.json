@@ -59,7 +59,7 @@
         "url": "https://developer.nordicsemi.com/.pc-tools/nrfconnect-apps/pc-nrfconnect-toolchain-manager"
     },
     "Design-Tool":{
-        "displayName": "Toolchain Manager",
+        "displayName": "design_tool",
         "description": "Install and manage tools to develop with the nRF Connect SDK (NCS)",
         "homepage": "https://github.com/kaifa999/DesignTool",
         "url": "https://github.com/kaifa999/DesignTool"
