@@ -1,8 +1,8 @@
 {
-    "Design-Tool":{
-        "displayName": "design_tool",
-        "description": "Install and manage tools to develop with the nRF Connect SDK (NCS)",
-        "homepage": "https://github.com/kaifa999/DesignTool",
-        "url": "https://github.com/kaifa999/DesignTool"
-    }
+  "Design-Tool": {
+    "displayName": "design_tool",
+    "description": "Install and manage tools to develop with the nRF Connect SDK (NCS)",
+    "homepage": "https://github.com/kaifa999/DesignTool",
+    "url": "https://github.com/kaifa999/DesignTool"
+  }
 }
