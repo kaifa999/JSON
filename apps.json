@@ -56,6 +56,6 @@
         "displayName": "Design_Tool",
         "description": "Install and manage tools to develop with the nRF Connect SDK (NCS)",
         "homepage": "https://github.com/kaifa999/DesignTool",
-        "url": "file:///D:/ftpserver/.pc_tools/nrfconnect-apps/pc-nrfconnect-boilerplate"
+        "url": "http://81.69.225.136/.pc-tools/nrfconnect-apps/pc-nrfconnect-boilerplate"
     }
 }   
