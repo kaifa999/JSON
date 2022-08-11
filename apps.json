@@ -52,7 +52,7 @@
         "homepage": "https://github.com/NordicSemiconductor/pc-nrfconnect-dtm",
         "url": "https://developer.nordicsemi.com/.pc-tools/nrfconnect-apps/pc-nrfconnect-dtm"
     },
-    "Design-Tool":{
+    "pc-nrfconnect-boilerplate":{
         "displayName": "Design_Tool",
         "description": "Install and manage tools to develop with the nRF Connect SDK (NCS)",
         "homepage": "https://github.com/kaifa999/DesignTool",
